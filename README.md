@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=S7Tsdno51PE ||
 https://www.youtube.com/watch?v=S-8IcHucSNg&t=591s ||
 https://www.youtube.com/watch?v=Xdm9zYUZq7c&list=PL6bQeQE-ybqAYoaWz_ZEE2X4wX6PhwCWR&index=6 ||
 
+I also reused some of the code from my previous game Slippery: https://github.com/14mmuhammad/SlipperyTheGame ||
+
 The Assets I used mainly were:
   https://managore.itch.io/m5x7 ||
   https://tallbeard.itch.io/music-loop-bundle ||
